@@ -1,7 +1,5 @@
 # hello-world
 Demo guided.
->>> Branch from 1. Going to check out using PyCharm.<<<
+>>> demoBranch-1b was merged using the "Pull Request" in the GitHub web interface. 
 
-EDIT made during the Merging process, after the PUll request.
-
-Readme file edits for testing this first branch. 
+These ReadMe edits now being made using Pycharm on the "main" with the branch merged in. 
